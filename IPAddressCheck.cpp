@@ -1,10 +1,13 @@
+
 //created by Dinaol Tadesse
 #include <iostream>
 #include <string>
 #include <sstream>
 using namespace std;
 
+//checking 
 //This program will check if a number is an IP address or not
+
 int main() 
 {
 	long a,b,c,d;
